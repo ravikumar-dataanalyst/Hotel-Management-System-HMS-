@@ -1,5 +1,11 @@
 # Hotel-Management-System-HMS-
+
+Presentation link:
+Link:
+https://nau3203-my.sharepoint.com/:v:/g/personal/rpanchal_na_edu/EYMU3bdJ3cVLnUMbW9aC2E4B_dow8MwR24tQWHLSX8ydKg?e=aTwe1e
+
 A Hotel Management System (HMS) is a software solution designed to streamline and automate the day-to-day operations of hotels, resorts, and other lodging establishments. It provides a centralized platform to manage various aspects of hotel operations, enhancing efficiency and improving guest services. Here are key features and functionalities commonly found in hotel management systems:
+
 
 1. **Reservation and Booking Management:**
    - Enables guests to make reservations online or through other channels.
